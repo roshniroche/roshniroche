@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm roshni 🐻‍❄️</h1>
+<h1 align="center">hi, i'm roshni. ayush is my boyfriend 🐻‍❄️</h1>
 
 - 📫 you can write to me at **rocheroshni@gmail.com**
 - 👩🏽‍💻 i'm currently working on building an <b>energy effiecient home automation system using IoT</b>
